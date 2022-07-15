@@ -4,4 +4,5 @@ boleh ulang atau melanjutkan episode selanjutnya
 - coba-coba membuka referensi dari medsos hasil apa
 yang bisa didapat sebagai seorang programer untuk penyemangat
 - testing eps pertama tes
+- tes editing commit untuk branch pertama
 - PENTING jangan lupa ingat ada orang yang ingin kamu gapai

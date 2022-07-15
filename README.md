@@ -5,4 +5,5 @@ boleh ulang atau melanjutkan episode selanjutnya
 yang bisa didapat sebagai seorang programer untuk penyemangat
 - testing eps pertama tes
 - tes editing commit untuk branch pertama
+- tes editing commit ke dua
 - PENTING jangan lupa ingat ada orang yang ingin kamu gapai

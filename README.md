@@ -6,4 +6,4 @@ yang bisa didapat sebagai seorang programer untuk penyemangat
 - testing eps pertama tes
 - tes editing commit untuk branch pertama
 - tes editing commit ke dua(dari orang pertama)
-- PENTING jangan lupa ingat ada orang yang ingin kamu gapai
+- PENTING jangan lupa ada orang yang ingin kamu gapai
